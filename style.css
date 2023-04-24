@@ -1,0 +1,36 @@
+
+.heading
+{
+width: 100%;
+text-align: center;
+height: 50px;
+font-weight: bold;
+font-size: 25px !important;
+}
+.heading h4{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#gamestart,#status,#restart{
+    font-size: 25px;
+}
+#footer{
+    background-color: grey;
+    color: white;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+.modal-dialog{
+width: 70%;
+}
+.modal-body{
+    text-align: left;
+    font-size: 25px;
+}
